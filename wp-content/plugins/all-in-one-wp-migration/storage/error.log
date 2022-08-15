@@ -1,0 +1,6 @@
+Jun 01 2022 08:39:08
+{"type":8192,"message":"Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\js_composer\\include\\classes\\editors\\class-vc-frontend-editor.php","line":673}
+
+Jun 01 2022 08:39:09
+{"type":8192,"message":"Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\js_composer\\include\\classes\\editors\\class-vc-frontend-editor.php","line":673}
+
